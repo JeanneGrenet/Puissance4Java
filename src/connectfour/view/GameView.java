@@ -1,14 +1,13 @@
 package connectfour.view;
 
 /**
- * Une vue de jeu.
- * Prend un modèle de jeu en argument
- *  et gère les interactions avec l'utilisateur.
+ * Une vue de jeu. Prend un modï¿½le de jeu en argument et gï¿½re les interactions
+ * avec l'utilisateur.
  */
 public interface GameView {
-	
+
 	/**
-	 * Lance le système de jeu.
+	 * Lance le systï¿½me de jeu.
 	 */
 	void play();
 
